@@ -1,0 +1,17 @@
+.navbar{
+    width: 100vw;
+    display: flex;
+    padding: 1.5rem 3rem 1rem 3rem;
+    align-items: center;
+}
+.logo-text{
+    font-family: "Pacifico", cursive;
+}
+.back-btn{
+    height: fit-content;
+    margin: 0 auto;
+    background: transparent;
+    padding: 0.25rem;
+    border-radius: 50%;
+    border: 1px solid black ;
+}

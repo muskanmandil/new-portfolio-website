@@ -1,0 +1,42 @@
+.homepage {
+  width: 100vw;
+  height: 100vh;
+  background: #fcf6f4;
+}
+
+.homepage h2,
+.homepage h3 {
+  font-family: "Karla", sans-serif;
+  font-weight: 500;
+  width: fit-content;
+  position: fixed;
+}
+
+.projects-link {
+  rotate: -90deg;
+  left: 0;
+  top: 22vh;
+}
+.resume-link {
+  top: 4vh;
+  left: 25vw;
+}
+.about-link {
+  bottom: 4vh;
+  left: 25vw;
+}
+.skills-link {
+  bottom: 4vh;
+  right: 25vw;
+}
+
+.feats-link {
+  rotate: 90deg;
+  right: 3vw;
+  top: 45vh;
+}
+
+.contact-link {
+  right: 5vw;
+  top: 5vh;
+}

@@ -1,0 +1,21 @@
+.social-links-container{
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    left: 1.5rem;
+    width: 2rem;
+}
+
+.social-links-container img{
+    height: 1.5rem;
+}
+
+.social-links-container hr {
+    margin-top: 33vh;
+    rotate: 90deg;
+    border: 1px solid black;
+    width: 70vh; 
+}

@@ -1,0 +1,18 @@
+.wheel-btn-container{
+    width: fit-content;
+    position: fixed;
+    top: 40%;
+    left: 45%
+}
+.wheel-btn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    background: transparent;
+    border: none;
+}
+
+.wheel-btn img{
+    height: 5rem;
+}
